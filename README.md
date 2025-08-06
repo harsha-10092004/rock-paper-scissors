@@ -25,7 +25,9 @@ Play directly in your browser and see if you can beat the computer!
 - **JavaScript** – Game logic and interactivity.
 
 ## 📸 Preview
-[Screenshot 2025-08-06 103045.png] game preview
+
+### Game Preview
+![Game Preview](Screenshot%202025-08-06%20103045.png)
 
 ---
 
